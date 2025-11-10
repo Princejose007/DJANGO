@@ -2,5 +2,5 @@ Django is a free, open-source, and high-level web framework written in Python th
 
 
 
-image upload - <a href="https://github.com/Princejose007/Image_upload"> Click Here </a>
-ORM(Object-Relational Mapper),(without id)-<a href="">clickhere</a> 
+image upload - <a href="https://github.com/Princejose007/Image_upload"> Click Here </a><br>
+ORM(Object-Relational Mapper),(without id)-<a href="https://github.com/Princejose007/orm">clickhere</a> 
